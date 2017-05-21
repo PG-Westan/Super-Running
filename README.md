@@ -1,2 +1,2 @@
-# Super-Running
-Super Running
+# SuperRunning
+SuperRunning
